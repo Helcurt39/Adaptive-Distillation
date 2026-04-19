@@ -65,8 +65,8 @@ This project explores the integration of Federated Learning (FL) and Knowledge D
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/repo-name.git
-cd repo-name
+git clone https://github.com/Helcurt39/Adaptive-Distillation.git
+cd Adaptive-Distillation
 ```
 
 Install dependencies:
